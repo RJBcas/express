@@ -1,0 +1,19 @@
+{
+  "name": "primer-servidor-express",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RJBcas"
+  },
+  "author": "RJBcas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
